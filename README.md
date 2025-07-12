@@ -83,7 +83,9 @@ La actividad en mi perfil de GitHub refleja mi compromiso continuo con el desarr
 
 ## 📊 GitHub Metrics
 
-<img src="./metrics.svg" alt="Metrics de GitHub de Camilo Bernal" />
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ---
 
