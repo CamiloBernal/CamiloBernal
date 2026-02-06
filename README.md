@@ -7,6 +7,8 @@ Soy un **Arquitecto de Soluciones** con más de **dos décadas de experiencia** 
 
 Actualmente, mi foco principal reside en la **IA Generativa**, la **Arquitectura Empresarial orientada a la resiliencia y escalabilidad**, el **DevOps de próxima generación** y la **optimización del Developer Experience (DX)**. Mi trayectoria no solo abarca la dirección técnica, sino también la **mentoría de equipos de élite** y la **catalización de comunidades de ingenieros**, impulsando la adopción de patrones arquitectónicos avanzados y metodologías ágiles a escala.
 
+<a href="https://app.daily.dev/camilobernal"><img src="https://api.daily.dev/devcards/v2/1gDpWu00jOtT7qgXtrz4z.png?r=cn0&type=default" width="356" alt="Camilo Bernal's Dev Card"/></a>
+
 ---
 
 ## 🚀 Interconexión Digital: Mi Ecosistema Profesional
