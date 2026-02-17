@@ -94,7 +94,9 @@
 
 ### 📡 Actividad Reciente
 
-
+{% for post in blog_posts %}
+- [{{ post.title }}]({{ post.link }}) - *{{ post.date }}*
+{% endfor %}
 
 ---
 
