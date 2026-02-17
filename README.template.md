@@ -234,11 +234,11 @@ Soy **agnóstico a la tecnología**, con especialización principal en **.NET**,
   <tr>
     <td width="50%" valign="top">
       <h2>📡 Recent Activity</h2>
-      <ul><li>⚡ Working on <a href='https://github.com/camilobernal/platform-builder'><b>platform-builder</b></a> (TypeScript) - <i>2026-02-17</i></li><li>⚡ Working on <a href='https://github.com/camilobernal/architype'><b>architype</b></a> (Python) - <i>2026-02-17</i></li></ul>
+      {{RECENT_ACTIVITY}}
     </td>
     <td width="50%" valign="top">
       <h2>📝 Latest Blog Posts</h2>
-      <ul><li>📄 <a href='https://www.camilobernal.dev/blog/future-ai-fintech'>The Future of AI in FinTech</a> - <i>2026-02-10</i></li><li>📄 <a href='https://www.camilobernal.dev/blog/migrating-legacy-azure'>Migrating Legacy Systems to Azure</a> - <i>2026-01-15</i></li><li>📄 <a href='https://www.camilobernal.dev/blog/why-i-love-rust'>Why I Love Rust</a> - <i>2025-12-20</i></li></ul>
+      {{BLOG_POSTS}}
       <br />
       <h3>👨‍💻 Daily.dev</h3>
       <a href="https://app.daily.dev/camilobernal">
@@ -286,5 +286,5 @@ Soy **agnóstico a la tecnología**, con especialización principal en **.NET**,
 
 <!-- Footer -->
 <div align="center">
-  <sub>Last updated: 2026-02-17 11:29 COT</sub>
+  <sub>Last updated: {{LAST_UPDATED}}</sub>
 </div>

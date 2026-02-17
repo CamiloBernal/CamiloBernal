@@ -1,0 +1,10 @@
+# Generated Files
+stats.json
+blog_posts.json
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+venv/
+.env
