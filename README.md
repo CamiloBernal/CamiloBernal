@@ -1,98 +1,360 @@
-# Camilo Bernal: Arquitecto de Soluciones
+<div align="center">
 
-<!-- 📸 ¡Tu foto profesional aquí! Considera un avatar con estilo distintivo. -->
-![Camilo Bernal - Arquitecto de Soluciones](https://cdn.camilobernal.dev/CamiloBernalPhotoAI-s.png)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Hola%2C+soy+Cami+%F0%9F%91%8B;Arquitecto+de+Soluciones+%7C+23%2B+a%C3%B1os;Tech+Agnostic+%7C+AI+Enthusiast;Building+The+Future+%F0%9F%9A%80" alt="Typing animation: Hola soy Cami — Arquitecto de Soluciones — Building The Future" width="800" />
 
-Soy un **Arquitecto de Soluciones** con más de **dos décadas de experiencia** en la conceptualización, diseño e implementación de sistemas de software complejos. Mi expertise se centra en la **ingeniería de plataformas de alto rendimiento**, la **modernización de ecosistemas legacy** y la **democratización del acceso a tecnologías disruptivas**.
+<a href="https://www.camilobernal.dev">
+  <img src="public/images/camilobernal-geek-funko.png" width="150" alt="Camilo Bernal — Arquitecto de Soluciones, Bogotá Colombia. Geek Funko Pop style avatar." />
+</a>
 
-Actualmente, mi foco principal reside en la **IA Generativa**, la **Arquitectura Empresarial orientada a la resiliencia y escalabilidad**, el **DevOps de próxima generación** y la **optimización del Developer Experience (DX)**. Mi trayectoria no solo abarca la dirección técnica, sino también la **mentoría de equipos de élite** y la **catalización de comunidades de ingenieros**, impulsando la adopción de patrones arquitectónicos avanzados y metodologías ágiles a escala.
+## Ángel Camilo Bernal · *Cami*
 
-<a href="https://app.daily.dev/camilobernal"><img src="https://api.daily.dev/devcards/v2/1gDpWu00jOtT7qgXtrz4z.png?r=cn0&type=default" width="356" alt="Camilo Bernal's Dev Card"/></a>
+### Arquitecto de Soluciones | +23 años | Bogotá, Colombia 🇨🇴
 
----
+<br/>
 
-## 🚀 Interconexión Digital: Mi Ecosistema Profesional
+[![Sitio web personal de Camilo Bernal](https://img.shields.io/badge/Portfolio-camilobernal.dev-8B5CF6?style=flat-square&logo=safari&logoColor=white)](https://www.camilobernal.dev)
+[![LinkedIn de Camilo Bernal](https://img.shields.io/badge/LinkedIn-camilobernal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilobernal)
+[![Blog técnico de Camilo Bernal](https://img.shields.io/badge/Blog-blog.camilobernal.dev-10B981?style=flat-square&logo=hashnode&logoColor=white)](https://blog.camilobernal.dev)
+[![Perfil de Camilo Bernal en daily.dev](https://img.shields.io/badge/daily.dev-camilobernal-CE3DF3?style=flat-square&logoColor=white)](https://app.daily.dev/camilobernal)
+[![Correo de contacto de Camilo Bernal](https://img.shields.io/badge/Email-hi@camilobernal.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@camilobernal.dev)
 
-Conecta con mi ecosistema profesional y explora mis contribuciones. ¡La colaboración es el motor de la innovación!
+<br/>
 
-[![Website](https://img.shields.io/badge/Website-camilobernal.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.camilobernal.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CamiloBernal-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilobernal)
-[![Blog Técnico](https://img.shields.io/badge/Blog-camilobernal.dev/blog-black?style=for-the-badge&logo=medium&logoColor=white)](https://blog.camilobernal.dev)
-[![CV Digital](https://img.shields.io/badge/CV-Digital-red?style=for-the-badge&logo=file&logoColor=white)](https://www.camilobernal.dev/cv)
+![Ubicación](https://img.shields.io/badge/📍%20Ubicación-Bogotá%2C%20Colombia-00D9FF?style=flat-square)
+![Timezone](https://img.shields.io/badge/🕐%20Timezone-COT%20(UTC--5)-00D9FF?style=flat-square)
+![Estado](https://img.shields.io/badge/💼%20Estado-Building%20The%20Future%20🚀-10B981?style=flat-square)
 
----
+<br/>
 
-## 🛠️ Deep Dive: Habilidades Técnicas & Expertise Cuantitativa
+![Contador de visitantes al perfil de Camilo Bernal](https://komarev.com/ghpvc/?username=CamiloBernal&label=Visitantes+del+perfil&color=8B5CF6&style=flat-square)
 
-Mi arsenal técnico se extiende a través de la pila completa de desarrollo, con un enfoque en la construcción de sistemas robustos y escalables:
-
-*   **Ingeniería de Software:** Diseño y desarrollo de **microservicios escalables** (.NET, Node.js), **APIs RESTful/gRPC**, **sistemas distribuidos**, **desarrollo cloud-native** (Kubernetes, Serverless), y **arquitecturas front-end de alto rendimiento**.
-*   **Arquitectura de Sistemas:** Definición de **patrones arquitectónicos empresariales** (DDD, Event-Driven, CQRS), **estrategias de migración a la nube**, **optimización de costos y rendimiento en infraestructuras cloud (AWS, Azure)**, y **gobernanza de arquitectura**.
-*   **DevOps & SRE:** Implementación de **pipelines CI/CD automatizadas**, **observabilidad (monitoring, logging, tracing)**, **infraestructura como código (IaC)**, **gestión de contenedores (Docker, Kubernetes)** y **estrategias de Site Reliability Engineering**.
-*   **Inteligencia Artificial:** Aplicación de **modelos de lenguaje grandes (LLMs)**, **procesamiento de lenguaje natural (NLP)**, **diseño de agentes conversacionales (bots)** y **arquitecturas para IA generativa**.
-*   **Gestión Técnica:** Liderazgo de **equipos de ingeniería de alto rendimiento**, **gestión de producto técnico**, **estrategias de interop** y **optimización de bases de datos distribuidas**.
-
-<!-- 💡 Considera añadir badges visuales para cada habilidad usando shields.io o similar para un impacto visual aún mayor. -->
+</div>
 
 ---
 
-## 🎯 Fronteras de Exploración & Colaboración Estratégica
+## 🧠 Sobre mí
 
-Estoy activamente involucrado y busco colaborar en la vanguardia de la tecnología, explorando y contribuyendo a:
+> 🚀 **Soy Arquitecto de Soluciones con más de 23 años diseñando productos de software que importan.**
+> Mi visión no tiene límites en un stack concreto: soy agnóstico a la tecnología y apasionado por la estrategia, el código y la innovación real. Desde FinTech hasta IA, construyo el puente entre la ambición del negocio y la precisión técnica.
 
-*   **IA Generativa y sus Aplicaciones Empresariales:** Desde la orquestación de LLMs hasta la creación de agentes autónomos y la integración de IA en flujos de trabajo complejos.
-*   **Arquitectura de Plataformas Resilientes:** Diseño de sistemas que toleren fallos, escalen elásticamente y mantengan la consistencia en entornos distribuidos.
-*   **Evolución del Developer Experience (DX):** Herramientas, procesos y plataformas que empoderan a los desarrolladores para construir y desplegar software de manera más eficiente y segura.
-*   **Modernización de Ecosistemas Legacy:** Estrategias para refactorizar, re-arquitecturar y migrar sistemas críticos a arquitecturas modernas y cloud-native.
-*   **Democratización del Software y la IA:** Iniciativas para hacer que las tecnologías avanzadas sean accesibles y utilizables por un público más amplio.
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**💡 Quién soy**
+
+- 🎯 Arquitecto de Soluciones | Gerente CoE en **Sofka**
+- 🏗️ +23 años construyendo software en BFSI, Salud, Transporte y Gobierno
+- 🧩 Tech Agnostic: mi visión supera cualquier stack
+- 🎓 Docente y conferencista en desarrollo de software
+- 🥁 Baterista apasionado y entusiasta de Star Trek
+- 🤝 Coorganizador de comunidades técnicas en Colombia
+
+</td>
+<td valign="top" width="50%">
+
+**🔭 Actualmente**
+
+- 🔨 **Building:** Platform Engineering & AI Agents
+- 🌱 **Learning:** Rust, WebAssembly, Agentic AI Patterns
+- 🎯 **Focus:** Cloud-Native Architecture & FinOps
+- 📖 **Reading:** Technical papers on LLM Orchestration
+- 🚀 **Mission:** Hacer que el código cuente una historia
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📖 Leer mi historia completa</summary>
+<br/>
+
+Soy un desarrollador de software apasionado, con más de 23 años de experiencia en la construcción de productos tecnológicos de alto impacto. He aportado en proyectos de diferentes verticales: Salud, Transporte, FinTech, Startups y proyectos de Inteligencia Artificial.
+
+Mi rol está orientado tanto a la gestión estratégica de equipos técnicos como a la construcción directa de productos. He liderado como Arquitecto Líder, Gerente de Desarrollo, Director de I+D+i y actualmente como Gerente del CoE de Desarrollo y Arquitectura en Sofka.
+
+Soy fiel a los principios ágiles y al pensamiento de arquitectura pragmática: busco siempre el equilibrio entre tecnología de punta, necesidades del negocio y deuda técnica controlada. Me apasiona el mentoring técnico, la calidad desde la incepción (Shift-Left) y la construcción de comunidad.
+
+</details>
+
 
 ---
 
-## ✨ Hitos & Reconocimientos Clave
+## 🗺️ Mi Trayectoria
 
-Mi trayectoria se ha forjado a través de la contribución y el liderazgo:
+<table>
+<tr>
+<td><strong>2002 →</strong></td><td>🟣</td><td>Inicio en desarrollo de software profesional</td>
+</tr>
+<tr>
+<td><strong>2012 →</strong></td><td>🔵</td><td>Primer rol como <strong>Arquitecto de Software</strong> — Melo Web S.A.S</td>
+</tr>
+<tr>
+<td><strong>2016 →</strong></td><td>🔵</td><td><strong>Director de Desarrollo &amp; I+D+i</strong> — Banlinea S.A.S (25+ personas)</td>
+</tr>
+<tr>
+<td><strong>2018 →</strong></td><td>🔵</td><td><strong>Jefe de Desarrollo de Software</strong> — Lexica S.A.S (15+ personas)</td>
+</tr>
+<tr>
+<td><strong>2022 →</strong></td><td>🔵</td><td><strong>Tech Lead</strong> en Siigo · <strong>Gerente CoE Desarrollo y Arquitectura</strong> en Sofka</td>
+</tr>
+<tr>
+<td><strong>2026 🚀</strong></td><td>🟢</td><td><strong>Building The Future</strong> — AI Agents, Platform Engineering, Cloud-Native</td>
+</tr>
+</table>
 
-*   **Educador y Mentor:** Contribución activa a la formación de nuevas generaciones de ingenieros de software.
-*   **Líder de Comunidad:** Co-organizador de eventos y comunidades técnicas, fomentando el intercambio de conocimiento y la innovación.
-*   **Certificaciones:** Scrum Master, Diplomado Internacional de Proyectos (PMI).
-
-<!-- 🏆 Añade aquí reconocimientos específicos, publicaciones, charlas en conferencias o contribuciones a proyectos open source. -->
-
----
-
-## 🌟 Proyectos de Vanguardia
-
-Esta sección está dedicada a mis proyectos más impactantes, donde he aplicado soluciones innovadoras a desafíos técnicos complejos. Cada proyecto es una muestra de mi capacidad para transformar ideas en sistemas funcionales y escalables.
-
-<!-- 🚀 ¡Es hora de mostrar tus proyectos! Incluye imágenes, descripciones concisas enfocadas en el impacto técnico y los desafíos resueltos. Considera enlaces a repositorios, demos o estudios de caso. -->
-<!--
-### Proyecto X: Plataforma de Procesamiento de Datos en Tiempo Real
-Diseño e implementación de una arquitectura de streaming de datos con Kafka y Flink para análisis predictivo a escala. [Ver Detalles Técnicos](link_to_repo_or_case_study)
-
-### Proyecto Y: Agente Conversacional impulsado por LLMs
-Desarrollo de un asistente inteligente con capacidades de razonamiento y generación de contenido, optimizado para baja latencia. [Ver Demo](link_to_demo)
--->
-Actualmente, estoy curando una selección de mis proyectos más relevantes. ¡Pronto habrá novedades que demuestren mi expertise en la frontera tecnológica!
 
 ---
 
-## 📈 Métricas y Actividad en GitHub
+## ⚙️ Mi Stack Tecnológico
 
-La actividad en mi perfil de GitHub refleja mi compromiso continuo con el desarrollo de software y la comunidad open source. Aquí puedes ver algunas estadísticas clave:
+**☁️ Cloud & DevOps**
 
-<!-- 📊 GitHub Readme Stats: Asegúrate de configurar el repositorio anuraghazra/github-readme-stats para generar estas imágenes. -->
-[![Camilo Bernal GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilobernal&show_icons=true&theme=radical&hide_border=true)]()
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-## 📊 GitHub Metrics
+**🔧 Backend & Architecture**
+
+![.NET / C#](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**🎨 Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**🧠 AI & Data**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**🏗️ Architecture Patterns**
+
+![Microservices](https://img.shields.io/badge/Microservices-8B5CF6?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-8B5CF6?style=flat-square)
+![CQRS / Event Sourcing](https://img.shields.io/badge/CQRS%20%2F%20Event%20Sourcing-8B5CF6?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-8B5CF6?style=flat-square)
+![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-00D9FF?style=flat-square)
+![API-First](https://img.shields.io/badge/API--First-00D9FF?style=flat-square)
+![Shift-Left Quality](https://img.shields.io/badge/Shift--Left%20Quality-10B981?style=flat-square)
+![FinOps](https://img.shields.io/badge/FinOps-10B981?style=flat-square)
+
+
+---
+
+## 📊 GitHub en Tiempo Real
+
+<div align="center">
+
+<table>
+<tr>
+<td width="49%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CamiloBernal&show_icons=true&theme=tokyonight&title_color=8B5CF6&icon_color=00D9FF&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Estadísticas de GitHub de Camilo Bernal — commits, PRs, contribuciones totales" width="100%" />
+</td>
+<td width="49%" align="center">
+<img src="https://streak-stats.demolab.com?user=CamiloBernal&theme=tokyonight&background=0D1117&border=30363D&ring=8B5CF6&fire=FF6B35&currStreakLabel=00D9FF&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="Racha de contribuciones de Camilo Bernal en GitHub — días consecutivos activo" width="100%" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloBernal&layout=compact&theme=tokyonight&title_color=8B5CF6&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&hide=html,css,scss&langs_count=8" alt="Lenguajes más usados por Camilo Bernal: C#, TypeScript, Python, Go y más" width="40%" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=CamiloBernal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trofeos de GitHub de Camilo Bernal — logros destacados en contribuciones y proyectos" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloBernal&bg_color=0D1117&color=00D9FF&line=8B5CF6&point=E6EDF3&area=true&hide_border=true" alt="Gráfico de actividad de contribuciones de Camilo Bernal en GitHub durante el último año" width="100%" />
+
+<br/>
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CamiloBernal/CamiloBernal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CamiloBernal/CamiloBernal/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente animada devorando las contribuciones de Camilo Bernal en GitHub" src="https://raw.githubusercontent.com/CamiloBernal/CamiloBernal/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
+</div>
 
-## 🤝 Colaboración en la Frontera Tecnológica
-
-Si eres un arquitecto, ingeniero o líder técnico apasionado por la **IA Generativa**, los **sistemas distribuidos**, la **optimización de la experiencia del desarrollador** o la **transformación digital a escala**, me encantaría conectar. Busco mentes afines para explorar nuevas ideas, colaborar en proyectos desafiantes y empujar los límites de lo posible en el software.
 
 ---
+
+## 🚀 Proyectos Destacados
+
+🎨 UX/UI &nbsp;|&nbsp; ⚙️ Backend &nbsp;|&nbsp; 🧠 AI &nbsp;|&nbsp; 🏗️ Architecture &nbsp;|&nbsp; ☁️ Cloud
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🏗️ Platform Builder**
+
+*🎨 Plataforma NoCode/LowCode para construcción de aplicaciones empresariales*
+
+Arquitectura de plataforma diseñada para democratizar el desarrollo. Permite a equipos non-technical construir soluciones complejas sin sacrificar escalabilidad.
+
+`Azure` `·` `.NET` `·` `TypeScript` `·` `React` `·` `Kubernetes`
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloBernal&repo=platform-builder&theme=tokyonight&title_color=8B5CF6&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&icon_color=00D9FF" alt="Repositorio Platform Builder de Camilo Bernal — plataforma NoCode/LowCode empresarial" />
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Architype**
+
+*⚙️ Framework de arquitectura de referencia para microservicios empresariales*
+
+Colección de patrones, plantillas y decisiones arquitectónicas documentadas para acelerar la construcción de sistemas distribuidos robustos.
+
+`.NET` `·` `Docker` `·` `GitHub Actions` `·` `DDD` `·` `CQRS`
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloBernal&repo=architype&theme=tokyonight&title_color=8B5CF6&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&icon_color=00D9FF" alt="Repositorio Architype de Camilo Bernal — framework de microservicios con DDD y CQRS" />
+
+</td>
+<td align="center" width="33%">
+
+**🧠 HoloLife**
+
+*🧠 Plataforma de IA para gestión personal y productividad aumentada*
+
+Proyecto personal explorando la intersección de AI Agents, datos personales y productividad. Un gemelo digital para la gestión de vida.
+
+`Python` `·` `LangChain` `·` `OpenAI` `·` `Astro` `·` `PostgreSQL`
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloBernal&repo=hololife&theme=tokyonight&title_color=8B5CF6&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&icon_color=00D9FF" alt="Repositorio HoloLife de Camilo Bernal — plataforma de IA para productividad personal" />
+
+</td>
+</tr>
+</table>
+</div>
+
+➡️ [Ver todos mis repositorios ordenados por estrellas](https://github.com/CamiloBernal?tab=repositories&sort=stargazers)
+
+
+---
+
+## 📡 Actividad Reciente
+
+<!-- ACTIVITY_START -->
+⏳ Cargando actividad reciente... Vuelve pronto.
+<!-- ACTIVITY_END -->
+
+
+---
+
+## 📝 Últimas Ideas del Blog
+
+<!-- BLOG_START -->
+📖 [Lee mis artículos en blog.camilobernal.dev](https://blog.camilobernal.dev)
+<!-- BLOG_END -->
+
+
+---
+
+## 💡 Lo que estoy leyendo
+
+<div align="center">
+
+<a href="https://app.daily.dev/camilobernal">
+  <img src="./devcard.png" width="356" alt="Camilo Bernal Dev Card en daily.dev — artículos y tendencias tech que sigo" />
+</a>
+
+</div>
+
+
+---
+
+## 🏆 Credenciales y Reconocimientos
+
+**Certificaciones**
+
+[![Scrum Master Certified](https://img.shields.io/badge/Scrum%20Master%20Certified-009FDA?style=flat-square&logoColor=white)](https://www.scrumalliance.org/)
+[![PMI — Diplomado Internacional de Proyectos](https://img.shields.io/badge/PMI%20—%20Diplomado%20Internacional-003087?style=flat-square&logoColor=white)](https://www.pmi.org/)
+[![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+
+<br/>
+
+<details>
+<summary>🤝 Comunidad y Docencia</summary>
+<br/>
+
+- 🎓 **Docente** en instituciones de educación superior — Desarrollo de Software
+- 🎙️ **Conferencista** en eventos de tecnología en Colombia
+- 🤝 **Coorganizador** de comunidades técnicas en Colombia
+- 🏢 **Sofka Educator** — Mentor y formador de talento técnico
+
+</details>
+
+<br/>
+
+**Sectores donde he generado impacto**
+
+![FinTech / BFSI](https://img.shields.io/badge/🏦%20FinTech%20%2F%20BFSI-8B5CF6?style=flat-square)
+![HealthTech](https://img.shields.io/badge/🏥%20HealthTech-10B981?style=flat-square)
+![Transporte](https://img.shields.io/badge/🚌%20Transporte-00D9FF?style=flat-square)
+![Educación](https://img.shields.io/badge/🎓%20Educación-F59E0B?style=flat-square)
+![Gobierno](https://img.shields.io/badge/🏛️%20Gobierno-64748B?style=flat-square)
+![Startups](https://img.shields.io/badge/🚀%20Startups-EF4444?style=flat-square)
+
+
+---
+
+## 📢 Conectemos
+
+<div align="center">
+
+[![🌐 Explora mi trabajo en camilobernal.dev](https://img.shields.io/badge/🌐%20Explora%20mi%20trabajo-camilobernal.dev-8B5CF6?style=flat-square)](https://www.camilobernal.dev)
+
+[![💼 Disponible para consultoría — Hablemos](https://img.shields.io/badge/💼%20Consultoría-Disponible%20—%20Hablemos-0A66C2?style=flat-square)](https://www.linkedin.com/in/camilobernal)
+[![📝 Lee mis ideas sobre IA y Arquitectura](https://img.shields.io/badge/📝%20Blog-IA%20y%20Arquitectura-10B981?style=flat-square)](https://blog.camilobernal.dev)
+[![📧 Escríbeme a hi@camilobernal.dev](https://img.shields.io/badge/📧%20Email-hi@camilobernal.dev-EA4335?style=flat-square)](mailto:hi@camilobernal.dev)
+
+[![🛠️ Abierto a colaborar en proyectos de FinTech, IA y Cloud](https://img.shields.io/badge/🛠️%20Colaborar-FinTech%20%7C%20AI%20%7C%20Cloud-00D9FF?style=flat-square)](https://github.com/CamiloBernal)
+
+</div>
+
+
+---
+
+## 📍 Encuéntrame
+
+<div align="center">
+
+> *"El arquitecto no solo diseña sistemas. Diseña el futuro de las organizaciones."*
+> — Camilo Bernal
+
+<br/>
+
+Construido con 💜 desde Bogotá, Colombia 🇨🇴 | Automatizado con GitHub Actions 🤖 | Última actualización: <!-- TIMESTAMP -->
+
+</div>
+
+<!-- Updated: 2026-02-21 00:00 COT | Version: 2.0.0 -->

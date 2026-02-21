@@ -1,0 +1,171 @@
+# Ángel Camilo Bernal — Full AI Context Profile
+
+> Version: 2.0.0 | Last updated: 2026-02-21 | For AI agents, RAG pipelines, and LLM indexing.
+
+---
+
+## Who I Am (whoami)
+
+Ángel Camilo Bernal, known professionally as "Cami," is a Colombian software architect, engineering leader, mentor, and community builder based in Bogotá, Colombia (COT, UTC-5). He has over 23 years of professional experience designing and delivering high-impact software products.
+
+He is technology-agnostic by philosophy: his approach to architecture is driven by business outcomes and engineering pragmatism, not by vendor allegiance or language preference. He has shipped production systems across .NET, Python, TypeScript, Go, and Java stacks; architected solutions on Azure, AWS, and GCP; and led teams ranging from 5 to 25+ engineers.
+
+---
+
+## Professional Biography
+
+Camilo began his software career in 2002 and has since accumulated experience across a broad range of domains: Financial Services (FinTech/BFSI), Healthcare (HealthTech), Transportation, Government, Education, and Startups.
+
+His leadership trajectory includes:
+
+- **2002–2011**: Software Developer — early career building web and enterprise systems.
+- **2012**: First role as **Software Architect** at Melo Web S.A.S.
+- **2016**: **Director of Development & R&D+i** at Banlinea S.A.S — led a team of 25+ engineers, overseeing platform architecture and innovation programs.
+- **2018**: **Head of Software Development** at Lexica S.A.S — managed a 15-person development team delivering legal-tech solutions.
+- **2022**: **Tech Lead** at Siigo (Colombia's leading SME accounting SaaS), then **Head of CoE for Development and Architecture** at Sofka Technologies.
+- **2026 (present)**: Continuing as Gerente del CoE de Desarrollo y Arquitectura at Sofka. Building AI Agents, Platform Engineering, and Cloud-Native solutions.
+
+---
+
+## Current Role
+
+**Title:** Gerente CoE Desarrollo y Arquitectura (Head of Center of Excellence for Development and Architecture)
+**Company:** Sofka Technologies
+**Since:** September 2022
+**Location:** Bogotá, Colombia (remote-first)
+
+Responsibilities:
+- Define and govern architectural standards for all Sofka client engagements.
+- Lead a center of excellence (CoE) that supports 100+ engineers across multiple accounts.
+- Drive adoption of modern engineering practices: Shift-Left quality, Platform Engineering, FinOps.
+- Mentor senior architects and tech leads.
+- Represent Sofka in technical conversations with enterprise clients.
+
+---
+
+## Technical Expertise
+
+### Cloud & Infrastructure
+- **Azure**: Advanced — App Services, AKS, Azure Functions, Service Bus, API Management, Cosmos DB, Azure DevOps, Azure Monitor
+- **AWS**: Intermediate — EC2, ECS/EKS, Lambda, SQS/SNS, RDS, S3, CloudFormation
+- **GCP**: Working knowledge — GKE, Cloud Run, BigQuery, Pub/Sub
+- **Container Orchestration**: Kubernetes (production-grade), Docker, Helm, Kustomize
+- **IaC**: Terraform, Bicep, ARM Templates
+- **CI/CD**: GitHub Actions, Azure DevOps Pipelines, Jenkins
+
+### Backend & Architecture
+- **.NET / C#**: Expert — from .NET Framework to .NET 8+, ASP.NET Core, Minimal APIs, Blazor
+- **Node.js / TypeScript**: Advanced — Express, Fastify, NestJS
+- **Python**: Advanced — FastAPI, Django, scripting, AI/ML integrations
+- **Go**: Intermediate — microservices, CLI tools
+- **Rust**: Learning — WebAssembly targets, systems programming
+- **Message Brokers**: Apache Kafka, Azure Service Bus, RabbitMQ
+- **APIs**: REST, GraphQL, gRPC, WebSockets
+
+### Architecture Patterns
+- Microservices Architecture
+- Event-Driven Architecture (EDA)
+- Domain-Driven Design (DDD)
+- CQRS + Event Sourcing
+- Hexagonal / Clean / Onion Architecture
+- API-First Design
+- Platform Engineering (Internal Developer Platforms)
+- Strangler Fig (legacy modernization)
+- Saga Pattern (distributed transactions)
+
+### Frontend
+- TypeScript, React, Angular, Next.js, Astro, Blazor WebAssembly
+
+### AI & Data
+- LLM Integration: OpenAI, Azure OpenAI, Anthropic Claude
+- Orchestration Frameworks: LangChain, Semantic Kernel
+- Vector Databases: Qdrant, Pinecone, pgvector
+- Databases: PostgreSQL, MongoDB, Redis, Elasticsearch, SQL Server, Cosmos DB
+- AI Patterns: RAG (Retrieval-Augmented Generation), AI Agents, Function Calling, Prompt Engineering
+
+### Engineering Practices
+- Shift-Left Quality (TDD, BDD, Contract Testing, SAST, DAST)
+- DevSecOps
+- FinOps (cloud cost optimization)
+- SRE (observability: OpenTelemetry, Prometheus, Grafana, Datadog)
+- Agile at Scale (SAFe, Scrum, Kanban)
+
+---
+
+## Key Projects
+
+### Platform Builder
+- **Type**: NoCode/LowCode enterprise application platform
+- **Role**: Lead Architect & Product Owner
+- **Stack**: Azure, .NET, TypeScript, React, Kubernetes
+- **Description**: A platform enabling non-technical teams to build complex business applications without sacrificing scalability or governance. Designed with a plugin-based extension model.
+
+### Architype
+- **Type**: Reference architecture framework for enterprise microservices
+- **Role**: Creator & Maintainer
+- **Stack**: .NET, Docker, GitHub Actions, DDD, CQRS
+- **Description**: A curated collection of architectural patterns, templates, and documented Architecture Decision Records (ADRs) to accelerate the construction of robust distributed systems.
+
+### HoloLife
+- **Type**: AI-powered personal productivity and life management platform
+- **Role**: Creator & Developer
+- **Stack**: Python, LangChain, OpenAI, Astro, PostgreSQL
+- **Description**: A personal project exploring the intersection of AI Agents, personal data, and augmented productivity. A "digital twin" for personal life management.
+
+---
+
+## Education & Certifications
+
+- **Scrum Master Certified** — Scrum Alliance
+- **PMI — Diplomado Internacional de Gestión de Proyectos** — Project Management Institute
+- **Azure Fundamentals (AZ-900)** — Microsoft
+- Multiple technical certifications in cloud, architecture, and agile methodologies
+
+---
+
+## Community & Teaching
+
+- **University Professor**: Has taught software development courses at higher education institutions in Colombia.
+- **Conference Speaker**: Regular speaker at technology events and meetups in Colombia.
+- **Community Co-organizer**: Co-organizer of technical communities in Colombia focused on software architecture and development best practices.
+- **Sofka Educator**: Internal mentor and trainer, building technical talent within Sofka's engineering teams.
+
+---
+
+## Philosophy & Decision-Making Approach
+
+Camilo's architectural philosophy is summarized in three principles:
+
+1. **Pragmatic Architecture**: The best architecture is the simplest one that meets today's requirements while leaving room to evolve. Avoid premature optimization and over-engineering.
+2. **Technology Agnosticism**: Choose tools based on the problem, the team's capabilities, and the operational context — never based on trends or familiarity alone.
+3. **Shift-Left Everything**: Quality, security, and architectural governance must be embedded from day one, not applied as after-the-fact reviews.
+
+He is a strong advocate for:
+- Treating infrastructure as code and architecture decisions as explicit, versioned artifacts.
+- Developer Experience (DX) as a first-class product concern.
+- Psychological safety and technical mentoring as the foundation of high-performing engineering teams.
+
+---
+
+## Availability & Collaboration
+
+- **Consulting**: Available for consulting engagements in Solution Architecture, Platform Engineering, AI Integration, and Cloud Strategy.
+- **Collaboration interests**: FinTech, AI/ML systems, Cloud-Native platforms, Developer tooling.
+- **Open source**: Contributor and maintainer of architecture reference repositories.
+
+---
+
+## Contact & Social
+
+- **Personal Site**: https://www.camilobernal.dev
+- **Blog**: https://blog.camilobernal.dev
+- **Email**: hi@camilobernal.dev
+- **LinkedIn**: https://www.linkedin.com/in/camilobernal
+- **GitHub**: https://github.com/CamiloBernal
+- **Daily.dev**: https://app.daily.dev/camilobernal
+- **Location**: Bogotá, Colombia 🇨🇴
+- **Timezone**: COT (UTC-5)
+
+---
+
+*This file is intended for AI agents, LLM indexing, and RAG pipeline ingestion. For the short summary version, see /llms.txt.*
