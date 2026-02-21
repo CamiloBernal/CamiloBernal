@@ -1,0 +1,17 @@
+# Camilo Bernal (Cami)
+
+> Solution Architect with 23+ years building high-impact software products across FinTech, HealthTech, Transportation, and Government sectors. Currently leading the CoE of Development and Architecture at Sofka (Colombia). Tech-agnostic: expertise spans .NET, Python, TypeScript, Azure, AWS, Kubernetes, AI/LLMs, Event-Driven Architecture, DDD, CQRS, and Platform Engineering. Former software professor, tech community co-organizer, and Scrum Master certified.
+
+## Links
+
+- [Portfolio & Personal Site](https://www.camilobernal.dev)
+- [Technical Blog](https://blog.camilobernal.dev)
+- [LinkedIn Profile](https://www.linkedin.com/in/camilobernal)
+- [GitHub Profile](https://github.com/CamiloBernal)
+- [Full AI Context](/llms-full.txt)
+- [Daily.dev Profile](https://app.daily.dev/camilobernal)
+
+## Contact
+
+- Email: hi@camilobernal.dev
+- Location: Bogotá, Colombia (COT, UTC-5)

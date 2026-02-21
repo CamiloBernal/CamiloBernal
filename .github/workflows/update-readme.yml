@@ -1,0 +1,68 @@
+name: Update README — Daily Stats & Content
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/**"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install requests feedparser
+
+      - name: Backup current README
+        run: cp README.md backups/README.backup.md
+
+      - name: Update blog posts section
+        run: python scripts/update_blog_posts.py
+        env:
+          BLOG_RSS_URL: "https://blog.camilobernal.dev/rss.xml"
+
+      - name: Update activity section
+        run: python scripts/update_activity.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_USERNAME: CamiloBernal
+
+      - name: Update timestamp
+        run: |
+          python -c "
+          import datetime
+          tz = datetime.timezone(datetime.timedelta(hours=-5))
+          ts = datetime.datetime.now(tz).strftime('%Y-%m-%d %H:%M COT')
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          content = content.replace('<!-- TIMESTAMP -->', ts)
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+          print(f'Timestamp updated: {ts}')
+          "
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "🤖 chore: update README with latest stats and content [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
