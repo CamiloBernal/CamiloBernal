@@ -19,8 +19,10 @@ jobs:
         uses: dailydotdev/action-devcard@3.2.1
         with:
           user_id: ${{ secrets.USER_ID }}
-          theme: dark
-          file_name: devcard.png
+          # type puede ser "default" (vertical) o "wide"
+          type: default
+          # nombre del archivo a guardar
+          commit_filename: devcard.png
 
       - name: Commit devcard
         run: |
