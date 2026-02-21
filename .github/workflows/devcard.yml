@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update daily.dev DevCard
-        uses: dailydev/gh-devcards@v3
+        uses: dailydotdev/action-devcard@v3.2.1
         with:
           user_id: ${{ secrets.USER_ID }}
           theme: dark
