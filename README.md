@@ -6,9 +6,9 @@
   <img src="public/images/camilobernal-geek-funko.png" width="150" alt="Camilo Bernal — Arquitecto de Soluciones, Bogotá Colombia. Geek Funko Pop style avatar." />
 </a>
 
-## Ángel Camilo Bernal · *Cami*
+## · Camilo Bernal ·
 
-### Arquitecto de Soluciones | +23 años | Bogotá, Colombia 🇨🇴
+### Arquitecto de Soluciones | +23 años de Experiencia| Bogotá, Colombia 🇨🇴
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 **💡 Quién soy**
 
-- 🎯 Arquitecto de Soluciones | Gerente CoE en **Sofka**
+- 🎯 Arquitecto de Soluciones en **Sofka Technologies**
 - 🏗️ +23 años construyendo software en BFSI, Salud, Transporte y Gobierno
 - 🧩 Tech Agnostic: mi visión supera cualquier stack
 - 🎓 Docente y conferencista en desarrollo de software
@@ -78,33 +78,6 @@ Mi rol está orientado tanto a la gestión estratégica de equipos técnicos com
 Soy fiel a los principios ágiles y al pensamiento de arquitectura pragmática: busco siempre el equilibrio entre tecnología de punta, necesidades del negocio y deuda técnica controlada. Me apasiona el mentoring técnico, la calidad desde la incepción (Shift-Left) y la construcción de comunidad.
 
 </details>
-
-
----
-
-## 🗺️ Mi Trayectoria
-
-<table>
-<tr>
-<td><strong>2002 →</strong></td><td>🟣</td><td>Inicio en desarrollo de software profesional</td>
-</tr>
-<tr>
-<td><strong>2012 →</strong></td><td>🔵</td><td>Primer rol como <strong>Arquitecto de Software</strong> — Melo Web S.A.S</td>
-</tr>
-<tr>
-<td><strong>2016 →</strong></td><td>🔵</td><td><strong>Director de Desarrollo &amp; I+D+i</strong> — Banlinea S.A.S (25+ personas)</td>
-</tr>
-<tr>
-<td><strong>2018 →</strong></td><td>🔵</td><td><strong>Jefe de Desarrollo de Software</strong> — Lexica S.A.S (15+ personas)</td>
-</tr>
-<tr>
-<td><strong>2022 →</strong></td><td>🔵</td><td><strong>Tech Lead</strong> en Siigo · <strong>Gerente CoE Desarrollo y Arquitectura</strong> en Sofka</td>
-</tr>
-<tr>
-<td><strong>2026 🚀</strong></td><td>🟢</td><td><strong>Building The Future</strong> — AI Agents, Platform Engineering, Cloud-Native</td>
-</tr>
-</table>
-
 
 ---
 
@@ -162,7 +135,6 @@ Soy fiel a los principios ágiles y al pensamiento de arquitectura pragmática: 
 ![Shift-Left Quality](https://img.shields.io/badge/Shift--Left%20Quality-10B981?style=flat-square)
 ![FinOps](https://img.shields.io/badge/FinOps-10B981?style=flat-square)
 
-
 ---
 
 ## 📊 GitHub en Tiempo Real
@@ -203,61 +175,9 @@ Soy fiel a los principios ágiles y al pensamiento de arquitectura pragmática: 
 
 </div>
 
-
 ---
 
-## 🚀 Proyectos Destacados
-
-🎨 UX/UI &nbsp;|&nbsp; ⚙️ Backend &nbsp;|&nbsp; 🧠 AI &nbsp;|&nbsp; 🏗️ Architecture &nbsp;|&nbsp; ☁️ Cloud
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🏗️ Platform Builder**
-
-*🎨 Plataforma NoCode/LowCode para construcción de aplicaciones empresariales*
-
-Arquitectura de plataforma diseñada para democratizar el desarrollo. Permite a equipos non-technical construir soluciones complejas sin sacrificar escalabilidad.
-
-`Azure` `·` `.NET` `·` `TypeScript` `·` `React` `·` `Kubernetes`
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloBernal&repo=platform-builder&theme=tokyonight&title_color=8B5CF6&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&icon_color=00D9FF" alt="Repositorio Platform Builder de Camilo Bernal — plataforma NoCode/LowCode empresarial" />
-
-</td>
-<td align="center" width="33%">
-
-**⚙️ Architype**
-
-*⚙️ Framework de arquitectura de referencia para microservicios empresariales*
-
-Colección de patrones, plantillas y decisiones arquitectónicas documentadas para acelerar la construcción de sistemas distribuidos robustos.
-
-`.NET` `·` `Docker` `·` `GitHub Actions` `·` `DDD` `·` `CQRS`
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloBernal&repo=architype&theme=tokyonight&title_color=8B5CF6&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&icon_color=00D9FF" alt="Repositorio Architype de Camilo Bernal — framework de microservicios con DDD y CQRS" />
-
-</td>
-<td align="center" width="33%">
-
-**🧠 HoloLife**
-
-*🧠 Plataforma de IA para gestión personal y productividad aumentada*
-
-Proyecto personal explorando la intersección de AI Agents, datos personales y productividad. Un gemelo digital para la gestión de vida.
-
-`Python` `·` `LangChain` `·` `OpenAI` `·` `Astro` `·` `PostgreSQL`
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CamiloBernal&repo=hololife&theme=tokyonight&title_color=8B5CF6&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&icon_color=00D9FF" alt="Repositorio HoloLife de Camilo Bernal — plataforma de IA para productividad personal" />
-
-</td>
-</tr>
-</table>
-</div>
-
 ➡️ [Ver todos mis repositorios ordenados por estrellas](https://github.com/CamiloBernal?tab=repositories&sort=stargazers)
-
 
 ---
 
@@ -267,7 +187,6 @@ Proyecto personal explorando la intersección de AI Agents, datos personales y p
 ⏳ Cargando actividad reciente... Vuelve pronto.
 <!-- ACTIVITY_END -->
 
-
 ---
 
 ## 📝 Últimas Ideas del Blog
@@ -275,7 +194,6 @@ Proyecto personal explorando la intersección de AI Agents, datos personales y p
 <!-- BLOG_START -->
 📖 [Lee mis artículos en blog.camilobernal.dev](https://blog.camilobernal.dev)
 <!-- BLOG_END -->
-
 
 ---
 
@@ -288,7 +206,6 @@ Proyecto personal explorando la intersección de AI Agents, datos personales y p
 </a>
 
 </div>
-
 
 ---
 
@@ -324,7 +241,6 @@ Proyecto personal explorando la intersección de AI Agents, datos personales y p
 ![Gobierno](https://img.shields.io/badge/🏛️%20Gobierno-64748B?style=flat-square)
 ![Startups](https://img.shields.io/badge/🚀%20Startups-EF4444?style=flat-square)
 
-
 ---
 
 ## 📢 Conectemos
@@ -340,7 +256,6 @@ Proyecto personal explorando la intersección de AI Agents, datos personales y p
 [![🛠️ Abierto a colaborar en proyectos de FinTech, IA y Cloud](https://img.shields.io/badge/🛠️%20Colaborar-FinTech%20%7C%20AI%20%7C%20Cloud-00D9FF?style=flat-square)](https://github.com/CamiloBernal)
 
 </div>
-
 
 ---
 
