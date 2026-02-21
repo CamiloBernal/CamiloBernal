@@ -32,6 +32,11 @@
 
 ---
 
+<div align="center">
+<a href="https://app.daily.dev/camilobernal"><img src="https://api.daily.dev/devcards/v2/1gDpWu00jOtT7qgXtrz4z.png?r=cn0&type=default" width="356" alt="Camilo Bernal's Dev Card"/></a>
+</div>
+
+
 ## 🧠 Sobre mí
 
 > 🚀 **Soy Arquitecto de Soluciones con más de 23 años diseñando productos de software que importan.**
