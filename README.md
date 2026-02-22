@@ -142,7 +142,7 @@ Soy fiel a los principios ágiles y al pensamiento de arquitectura pragmática: 
 <table>
 <tr>
 <td width="49%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CamiloBernal&show_icons=true&theme=tokyonight&title_color=8B5CF6&icon_color=00D9FF&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Estadísticas de GitHub de Camilo Bernal — commits, PRs, contribuciones totales" width="100%" />
+<img src="./github-metrics.svg" alt="Estadísticas de GitHub de Camilo Bernal — commits, PRs, contribuciones totales" width="100%" />
 </td>
 <td width="49%" align="center">
 <img src="https://streak-stats.demolab.com?user=CamiloBernal&theme=tokyonight&background=0D1117&border=30363D&ring=8B5CF6&fire=FF6B35&currStreakLabel=00D9FF&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="Racha de contribuciones de Camilo Bernal en GitHub — días consecutivos activo" width="100%" />
@@ -150,14 +150,10 @@ Soy fiel a los principios ágiles y al pensamiento de arquitectura pragmática: 
 </tr>
 <tr>
 <td align="center" colspan="2">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloBernal&layout=compact&theme=tokyonight&title_color=8B5CF6&text_color=E6EDF3&bg_color=0D1117&border_color=30363D&hide=html,css,scss&langs_count=8" alt="Lenguajes más usados por Camilo Bernal: C#, TypeScript, Python, Go y más" width="40%" />
+<img src="./github-metrics-languages.svg" alt="Lenguajes más usados por Camilo Bernal: C#, TypeScript, Python, Go y más" width="40%" />
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=CamiloBernal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trofeos de GitHub de Camilo Bernal — logros destacados en contribuciones y proyectos" width="100%" />
 
 <br/>
 
